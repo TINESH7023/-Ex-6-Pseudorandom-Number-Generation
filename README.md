@@ -10,8 +10,8 @@ Implementation of Pseudorandom Number Generation Using Standard library
 5. End the program.
 ## PROGRAM:
 ```
-NAME: Aswinth T
-Register Number: 212222230015
+NAME: tinesh c
+Register Number: 212222223004
 ```
 ```
 #include <stdio.h>
